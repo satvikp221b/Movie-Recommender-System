@@ -50,7 +50,7 @@ The project showcases various recommendation approaches, and the hybrid recommen
 
 | Content-Based (Crew & Cast(Most -weightage)) | Hybrid Recommender |
 | --------------------- | ------------------ |
-| ![Boltzmann Recommender](images/Cast-Crew-Recommender.png) | ![Hybrid Recommender](images/Boltmann_Recommender.png) |
+| ![Boltzmann Recommender](images/Cast_Crew_Recommender.png) | ![Hybrid Recommender](images/Boltmann_Recommender.png) |
 
 ## Further Improvements
 1. **Enhance the Collaborative Filtering Model:** Future work could explore using more sophisticated collaborative filtering algorithms, such as matrix factorization methods like Singular Value Decomposition (SVD) or Alternating Least Squares (ALS), to improve the quality of recommendations.
